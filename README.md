@@ -1,5 +1,5 @@
 Unix Workbench Guessing Game Project
-guessinggame.sh has 20 lines of code
+guessinggame.sh has       20 lines
 -n 
 **Make date**: 
-Thu May 26 14:56:54 MST 2022
+Fri May 27 21:10:02 MST 2022
