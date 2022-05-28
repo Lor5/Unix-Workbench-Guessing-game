@@ -14,6 +14,7 @@ do
         echo "too high! try again"
     fi 
 done 
+## loop ends
 echo "CONGRATULATIONS YOU GUESSED THE NUMBER!"
 ## list files inlcuded in directory
 echo "These files are located in this directory:" && ls -1 
